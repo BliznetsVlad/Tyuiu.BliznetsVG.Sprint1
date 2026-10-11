@@ -11,7 +11,7 @@ namespace Tyuiu.BliznetsVG.Sprint1.Task0.V2
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new();
             Console.Title = "Спринт #1 | Выполнил: Близнец В. Г. | СМАРТб-26-1";
             Console.WriteLine("***********************************************************");
             Console.WriteLine("* Спринт #1                                               *");
