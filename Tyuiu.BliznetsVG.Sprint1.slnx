@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.BliznetsVG.Sprint1.Task0.V2.Lib/Tyuiu.BliznetsVG.Sprint1.Task0.V2.Lib.csproj" />
+    <Project Path="Tyuiu.BliznetsVG.Sprint1.Task0.V2.Test/Tyuiu.BliznetsVG.Sprint1.Task0.V2.Test.csproj" />
+    <Project Path="Tyuiu.BliznetsVG.Sprint1.Task0.V2/Tyuiu.BliznetsVG.Sprint1.Task0.V2.csproj" />
+  </Folder>
+</Solution>
