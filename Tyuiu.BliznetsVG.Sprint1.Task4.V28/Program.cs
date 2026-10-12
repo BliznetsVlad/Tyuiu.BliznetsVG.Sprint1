@@ -12,7 +12,7 @@ namespace Tyuiu.BliznetsVG.Sprint1.Task4.V28;
             Console.WriteLine("***********************************************************");
             Console.WriteLine("* Спринт #1                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в С#                        *");
-            Console.WriteLine("* Задание #3                                              *");
+            Console.WriteLine("* Задание #4                                              *");
             Console.WriteLine("* Вариант #28                                             *");
             Console.WriteLine("* Выполнил: Близнец Владислав Георгиевич | СМАРТб-26-1    *");
             Console.WriteLine("***********************************************************");
