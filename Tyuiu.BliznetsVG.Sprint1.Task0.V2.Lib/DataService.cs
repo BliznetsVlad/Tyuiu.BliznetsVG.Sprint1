@@ -7,5 +7,6 @@ namespace Tyuiu.BliznetsVG.Sprint1.Task0.V2.Lib
         {
             return 3 / 3 * 2 + 12 / 4 / 3 - 2;
         }
+
     }
 }
