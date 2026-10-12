@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BliznetsVG.Sprint1.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BliznetsVG.Sprint1.Task0.V2", "Tyuiu.BliznetsVG.Sprint1.Task0.V2\Tyuiu.BliznetsVG.Sprint1.Task0.V2.csproj", "{BC9ED68E-E7EE-4D69-BC24-600A5FF38C4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BliznetsVG.Sprint1.Task0.V2.Test", "Tyuiu.BliznetsVG.Sprint1.Task0.V2.Test\Tyuiu.BliznetsVG.Sprint1.Task0.V2.Test.csproj", "{20D0F3F3-8C36-4A46-931D-CDE938528827}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,10 +23,6 @@ Global
 		{BC9ED68E-E7EE-4D69-BC24-600A5FF38C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC9ED68E-E7EE-4D69-BC24-600A5FF38C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC9ED68E-E7EE-4D69-BC24-600A5FF38C4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{20D0F3F3-8C36-4A46-931D-CDE938528827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20D0F3F3-8C36-4A46-931D-CDE938528827}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20D0F3F3-8C36-4A46-931D-CDE938528827}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20D0F3F3-8C36-4A46-931D-CDE938528827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,7 +30,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{77D61AC4-331B-4C4E-B3EA-6C038717A755} = {648DFF52-D8C7-4652-92A8-F617E373091A}
 		{BC9ED68E-E7EE-4D69-BC24-600A5FF38C4B} = {648DFF52-D8C7-4652-92A8-F617E373091A}
-		{20D0F3F3-8C36-4A46-931D-CDE938528827} = {648DFF52-D8C7-4652-92A8-F617E373091A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEE27773-8CA6-41F9-B3A4-A605A97E3C3C}
